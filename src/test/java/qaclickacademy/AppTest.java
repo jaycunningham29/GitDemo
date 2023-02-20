@@ -28,6 +28,7 @@ public class AppTest
     public static Test suite()
     {
         return new TestSuite( AppTest.class );
+        //changes made by user 2 on develop branch
     }
 
     /**
