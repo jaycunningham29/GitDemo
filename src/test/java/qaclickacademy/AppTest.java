@@ -29,6 +29,7 @@ public class AppTest
     {
         return new TestSuite( AppTest.class );
         //changes made by user 2 on develop branch
+        //changes made by user 1 to develop branch
     }
 
     /**
